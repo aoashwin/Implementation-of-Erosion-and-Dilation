@@ -49,12 +49,12 @@ plt.imshow(img_dilate,cmap='gray')
 
 ```
 ## Output:
-![Screenshot 2022-05-28 141432](https://user-images.githubusercontent.com/75235601/170818155-e22ee6b7-d195-4069-a808-62fa9180188b.jpg)
-
 
 ### Display the input Image
-![Screenshot 2022-05-28 141452](https://user-images.githubusercontent.com/75235601/170818160-f9b1b91b-f5be-4353-9833-2d5d19aa038b.jpg)
+![Screenshot 2022-05-28 141432](https://user-images.githubusercontent.com/75235601/170818155-e22ee6b7-d195-4069-a808-62fa9180188b.jpg)
 
+### Display the Eroded Image
+![Screenshot 2022-05-28 141452](https://user-images.githubusercontent.com/75235601/170818160-f9b1b91b-f5be-4353-9833-2d5d19aa038b.jpg)
 
 ### Display the Dilated Image
 ![Screenshot 2022-05-28 141506](https://user-images.githubusercontent.com/75235601/170818162-f451aedb-610b-4dd3-b13c-d746cdea31b5.jpg)
