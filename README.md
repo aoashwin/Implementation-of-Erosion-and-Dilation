@@ -23,7 +23,10 @@ Erode and Dilate the image.
 End Program.
 
 ## Program:
-
+```
+Developed by: ASHWIN AO
+Registration no: 212220230005
+```
 ``` Python
 # Import the necessary packages
 import cv2
